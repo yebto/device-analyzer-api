@@ -92,7 +92,7 @@ Register at [yeb.to](https://yeb.to) with Google OAuth to get a free API key.
 
 ## Support
 
-- Documentation: [docs.yeb.to](https://docs.yeb.to)
+- API Documentation: [https://yeb.to/api/device-analyze](https://yeb.to/api/device-analyze)
 - Email: support@yeb.to
 - Issues: [GitHub Issues](https://github.com/yebto/device-analyzer-api/issues)
 
